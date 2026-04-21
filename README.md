@@ -25,7 +25,7 @@ Com ele, é possível:
 
 ---
 
-<!--
+
 ## 📷 Preview
-![preview do projeto](./preview.png)
--->
+![preview do projeto](./assets/app.png)
+
