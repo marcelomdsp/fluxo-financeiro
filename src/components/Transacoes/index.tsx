@@ -21,7 +21,7 @@ const dados: ExtratoItem[] = [
     tipo: "entrada",
     data: "01/10/2023",
     categoria: "Salário",
-    descricao: "Recebimento mensal daquele dia lá",
+    descricao: "Recebimento mensal",
   },
   {
     id: "2",
